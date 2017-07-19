@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_96f0f3a994471bb24c00ed0d6604b22303ac16de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tangqipeng/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/pre-dexed/debug/glide-3.7.0_b90749cbce3a7d391296a223687063d3b62d992c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.2.0_7f23e3410541ab70ae84628743fffcc510b5d98c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_fd9548993b623201dd43f4fb7dc2915a522d7ee4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.2.0_f88a7797f1e4c78f79bcb572c6071f9a803f10da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.2.0_2c1fcccdb5c7ce83fe47e5c6c9fcb0bd21c13832.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.2.0_65b8000571d4f0e6adc8927b33ab06b443735bc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_a34db2fa662255dd79d0bf6489cc466c7eaaaa72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tangqipeng/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_dc813cf20dfd227f4cfaee9ead5384c8915d9f1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_5282ce7676df0f97208ec70eb4c9e033f3a9e6bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.2.0_ce339c4084caae43afa67921eaac3a9cf85e70f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/exploded-aar/com.android.support/transition/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.2.0_f3107de104f72f609f769d07f010f04343fd4cdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/exploded-aar/com.github.jitpack/gifimages/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af22d5cad571e5532b9153a785e8deb08c8f3e35">
+        <dex dex="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/pre-dexed/debug/com.github.jitpack-gifimages-unspecified_f372f76cd7a2da204f0ba3e1cfba32351a72f8bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_4817dec91ce2f837760140ebe258bf06d24a4950.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/tangqipeng/StudioProjects/GiphyImageResultsPreview-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_d35d72f7eadcca1ecb23fbaf0b7dd363b43818fb.jar" />
+    </item>
+
+</items>
